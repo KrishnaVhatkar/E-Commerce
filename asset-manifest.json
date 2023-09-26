@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/E-Commerce/static/css/main.0d839e2d.css",
+    "main.js": "/E-Commerce/static/js/main.6bf2995d.js",
+    "static/media/revicons.eot": "/E-Commerce/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/E-Commerce/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/E-Commerce/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/bg-boost-desktop.svg": "/E-Commerce/static/media/bg-boost-desktop.772154c9b0e451733f5e.svg",
+    "index.html": "/E-Commerce/index.html",
+    "main.0d839e2d.css.map": "/E-Commerce/static/css/main.0d839e2d.css.map",
+    "main.6bf2995d.js.map": "/E-Commerce/static/js/main.6bf2995d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d839e2d.css",
+    "static/js/main.6bf2995d.js"
+  ]
+}
